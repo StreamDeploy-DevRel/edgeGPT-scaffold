@@ -1,6 +1,6 @@
 # edgeGPT-scaffold
 
-Use this scaffold to develop ML / AI applications locallyon a Raspberry Pi + Coral USB Accelerator
+Use this scaffold to develop ML / AI applications locally on a Raspberry Pi + Coral USB Accelerator
 
 Build the Docker image
 ```
